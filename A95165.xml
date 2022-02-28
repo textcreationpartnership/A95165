@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of all the remarkable passages, and illegall proceedings of some sathanicall or Doeg-like accusers of their brethren, against William Larner, a free-man of England, and one of the merchant-tailers company of London, for selling eight printed sheets of paper (all of one matter,) intituled, Londons last warning; as also against John Larner, and Jane Hales his servants. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95165</idno>
+            <idno type="STC">Wing T2899</idno>
+            <idno type="STC">Thomason E335_7</idno>
+            <idno type="STC">ESTC R200778</idno>
+            <idno type="EEBO-CITATION">99861434</idno>
+            <idno type="PROQUEST">99861434</idno>
+            <idno type="VID">113570</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113570)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E335[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of all the remarkable passages, and illegall proceedings of some sathanicall or Doeg-like accusers of their brethren, against William Larner, a free-man of England, and one of the merchant-tailers company of London, for selling eight printed sheets of paper (all of one matter,) intituled, Londons last warning; as also against John Larner, and Jane Hales his servants. ...</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Larner's last press,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 2d London 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Larner, William, fl. 1641-1659.</term>
+               <term>Freedom of the press --  England --  Early works to 1800.</term>
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113570:1"/>
+            <pb facs="tcp:113570:1" rendition="simple:additions"/>
+            <p>A true Relation of all the remarkable Paſſages, and Illegall Proceedings of ſome Sathannicall or <hi>Doeg-</hi> like Accuſers of their Brethren, AGAINT WILLIAM LARNER, A <hi>Free-Man</hi> of <hi>England,</hi>
+            </p>
+            <p>AND ONE OF THE MERCHANT-TAILERS COM<g ref="char:EOLhyphen"/>pany of <hi>London,</hi> for ſelling Eight Printed Sheets of Paper (all of one matter,) Intituled, LONDONS <hi>laſt</hi> WARNING; as alſo againſt <hi>John Larner,</hi> and <hi>Jane Hales</hi> his Servants.</p>
+            <p>
+               <hi>Hee firſt, (acording to his</hi> Liberty) <hi>refuſing to be Examined upon Interrogatories, whereby to</hi> accuſe himſelf or others; <hi>And then they, (according to their refuſing to take an Oath, whereby to</hi> entrap themſelves, <hi>or</hi> betray their Maſter. Hee <hi>being carried firſt before the</hi> Lord Major <hi>of</hi> London, <hi>who committed him is the</hi> Counter Priſon, <hi>Next before the</hi> Committee of <hi>Examinations, who Com<g ref="char:EOLhyphen"/>mitted him Cloſe-Priſoner to</hi> Maiden-Lane, <hi>(where now he hath the</hi> liberty <hi>of the</hi> Priſon,) <hi>and at laſt, Turned over to the Houſe of</hi> Lords: <hi>From whom he ap<g ref="char:EOLhyphen"/>pealed to the</hi> Houſe of Commons, <hi>to be tryed by his</hi> Equalls <hi>(or</hi> Fellow-Com<g ref="char:EOLhyphen"/>moners,) <hi>according to Law and Juſtice, who turned him backe againe to the</hi> Lords; <hi>and by them were his ſervants committed to the Common Jayle of the</hi> Fleet, <hi>where they yet lie, being denyed of the Priſon Liberty, which malefactors doe enjoy.</hi>
+            </p>
+            <p>All which Paſſages, comming to the hands of ſome of his, and the Common<g ref="char:EOLhyphen"/>wealths friends, are Publiſhed by them to the view of the World, chiefly for the ſerious Obſervation of all the <hi>Free-man</hi> of <hi>England,</hi> who cannot long enjoy their Fredoms, Lives nor Eſtates, if the Rule of law be not truly followed, nor Juſtice duly Adminiſtred.</p>
+            <q>
+               <bibl>Eccleſ. 5.6. and 16.7.</bibl>
+               <p>If in a Country, thou ſeeſt the oppreſſion of the poore, and the defrauding of judge<g ref="char:EOLhyphen"/>ment &amp; Juſtice; be not aſtonied at the matter, for hee that is higher then the higheſt will regard it, and there be higher then they?</p>
+               <p>And moreover, I have ſeen the place of Judgement, where was wickedneſſe, and the place of Juſtice, where was iniquity; I thought in mine heart, God will judge the Juſt and the unjuſt, for time is for every purpoſe, and for every worke.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113570:2"/>
+            <pb n="3" facs="tcp:113570:2"/>
+            <head>A True Relation of the Remarkable Paſ<g ref="char:EOLhyphen"/>ſages, and illegall Proceedings againſt <hi>VVILL. LARNER,</hi> and his Servants.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here being a <hi>Book</hi> (Intituled, <hi>The laſt worning to Lon<g ref="char:EOLhyphen"/>don,)</hi> ſold in many places and ſhops in the ſaid City, ſome of them being brought to the ſhop of one <hi>Willi<g ref="char:EOLhyphen"/>am Larner,</hi> in <hi>Biſhops-gate-ſtreet,</hi> who after the man<g ref="char:EOLhyphen"/>ner of the Trade of <hi>Book-ſellers,</hi> (which is to buy Books, of all ſorts, brought to their ſhops, not examining the Perſons that bring them, either names, or Places of abode,) bought 25. of the ſaid <hi>books,</hi> not knowing what they were for matter, or examining the Perſon, what he was that brought them, or where was his aboad, not ſuſpe<g ref="char:EOLhyphen"/>cting any danger in them, either to himſelf, or others, nor know<g ref="char:EOLhyphen"/>ing any thing of them, before they were brought to his ſhop.</p>
+            <p>But this being done, preſently after (22. <hi>March,</hi> 1645.) there came two Stationers, <hi>Miller</hi> and <hi>Hunſcott,</hi> into his Houſe, <hi>not ſbew<g ref="char:EOLhyphen"/>ing any Warrant,</hi> yet notwithſtanding ſearched, and found 14. ſheets thereof lying openly amongſt the reſt of his <hi>Bookes,</hi> there being no Prohibition againſt them,) for ſale; and Eight ſheets more, which they had taken from another, (one <hi>Woodnet,</hi> a Stationer,) who declared, that he bought them of the ſaid <hi>William Larner:</hi> Where<g ref="char:EOLhyphen"/>upon the ſaid <hi>Hunſcott,</hi> and <hi>Miller,</hi> preſently commanded a Con<g ref="char:EOLhyphen"/>ſtable to aſſiſt them, as though they had taken a Thiefe or a Mur<g ref="char:EOLhyphen"/>derer.</p>
+            <div type="dialogue">
+               <pb n="4" facs="tcp:113570:3"/>
+               <p>So the ſaid <hi>William Larner,</hi> being carryed before <hi>Thomas Adams,</hi> Lord Major of <hi>London,</hi> in <hi>Guild-Hall,</hi> (many other Aldermen being preſent,) the Lord Major ſpake unto <hi>Hunſcott,</hi> ſaying.</p>
+               <sp>
+                  <speaker>L. Major.</speaker>
+                  <p>
+                     <hi>Did you Mr.</hi> Hunſcott <hi>take theſe Bookes in this mans houſe?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Hunſcott.</speaker>
+                  <p>Yes. <stage>[laying ſeverall other things to his charge, which hee was not able to prove, after his old accuſtomed manner, in the dayes of <hi>Will.</hi> of <hi>Canterbury.]</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. Major.</speaker>
+                  <p>
+                     <hi>How many of theſe Books did you buy?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Larner.</speaker>
+                  <p>Five and Twenty.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Major.</speaker>
+                  <p>
+                     <hi>Of whom did you buy them?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Larner.</speaker>
+                  <p>Of one that brought them to my ſhop.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Major.</speaker>
+                  <p>
+                     <hi>Doe you know the Party, or where he dwells?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Larner.</speaker>
+                  <p>I deſire the Liberty of a <hi>Free-man</hi> of <hi>England,</hi> not to Anſwer to any Interrogatories, whereby <hi>to accuſe myſelf, or others.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. Major.</speaker>
+                  <p>
+                     <hi>Sir, I charge you, (as I am a Chriſtian Magiſtrate,) An<g ref="char:EOLhyphen"/>ſwer me to what I ſhall aske you: Did you bye no more then 25. of theſe papers?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Larner.</speaker>
+                  <p>I ſay againe, I deſire the Liberty of a <hi>Free-man,</hi> which is, Not to Anſwer to Interrogatories. And if my Accuſers can prove any more, I am here ready to anſwer.</p>
+               </sp>
+               <p>Then Mr. <hi>Larner</hi> was cauſed to withdraw, and being called againe, was committed to the Poultry Counter, by command of the Lord Major, and after the ſpace of Three houres, there came this following warrant from the Committee of Examinations to ſhut him up cloſe Priſoner, and to ſuffer none to ſpeak with him, but in preſence of a Keeper. <hi>viz.</hi>
+               </p>
+               <floatingText xml:lang="eng" type="warrant">
+                  <body>
+                     <head>21. <hi>Martii.</hi> 1645.</head>
+                     <p>AT the Committee of the Houſe of Commons for Examinations: It is this day Ordered, that <hi>William Larner,</hi> Priſoner in the Counter in the Poultry, be kept a Cloſe Priſonor, and none to be permitted to ſpeak with him, but in the preſence of his Keeper, till Munday next, and then to be firſt brought to this Committee.</p>
+                     <closer>
+                        <signed>Laurence Whitaker.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="5" facs="tcp:113570:3"/>
+               <p>Then upon <hi>Munday,</hi> the 24. of <hi>March,</hi> the Under-<hi>Marſhall</hi> of <hi>London,</hi> and other Officers, came to fetch the Priſoner to the Com<g ref="char:EOLhyphen"/>mittee, but the Priſon-keeper demanded two Shillings, for two nights Lodging, which being refuſed to be paid, he was commanded to be locked up againe by the ſaid Marſhall, ſo he went away, and awhile after, ſent two of his men to fetch the Priſoner, but firſt he muſt pay a ſhilling, though it was all he had about him; which ſo prolonged the time, that the Committee was riſen before the Priſoner could be brought thither: So he being brought back by the <hi>Marſhall,</hi> he com<g ref="char:EOLhyphen"/>mitted him to his own Priſon in <hi>Maiden-lane,</hi> where he was kept four dayes without warrant, where of two of them, to wit, the 26. and 27. of <hi>March,</hi> he was kept Cloſe Priſoner, that none might ſpeake with him, at the command only of <hi>Hunſcott,</hi> and one <hi>Whitaker</hi> a Stationer, which command was given in his owne hearing, to Mr. <hi>Hodgkins,</hi> un<g ref="char:EOLhyphen"/>der Keeper of <hi>Maiden-lane</hi> Priſon: Whereas the Committee had gi<g ref="char:EOLhyphen"/>ven no ſuch Order, but only commanded the Marſhall to take care of him, which was on Tueſday, <hi>March,</hi> 25. when he was examined, the particular Paſſages whereof were as followeth.</p>
+               <p>The Committee, having much buſineſſe, it was divided into two parts, the one purpoſely to try the ſaid <hi>William Larners</hi> Caſe: So the Stationers and he being called in, he was commanded out againe for the ſpace of an houre, but being called in againe, hee thus addreſſed himſelf unto the Committee.</p>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>May it pleaſe this Honorable Committee: I conceive it but equi<g ref="char:EOLhyphen"/>ty, ſeeing I was cauſed to withdraw, whilſt I was accuſed, that my Accuſers withdraw now alſo, whilſt I have liberty to ſpeake; which being done; he deſired theſe three things.</p>
+                  <p n="1">I. <hi>That the Committee would deal favourably with him, in regard of his unacqaintedneſſe with the manner of their Proceedings: And in caſe any thing through ignorance might eſcape, tending to the Infringing of his own, or the Subjects Liberty, be might have leave to recall it.</hi>
+                  </p>
+                  <p n="2">II. <hi>That as he was a Commoner, or Free-man of England, bee deſired the</hi> Liberty <hi>of a</hi> Free-man, <hi>not to anſwer to Interrogatories, whereby to inſuare himſelf or others.</hi>
+                  </p>
+                  <p n="3">III. <hi>That if it might pleaſe the</hi> Honourable Parliament, <hi>to grant him the Liberty of the</hi> Common-Law, <hi>hee would not doubt in a ſhort time, to prove ſome of his Accuſers Thieves and Robbers, not onely in the time of the Biſhops, but in time of this preſent Parliament.</hi>
+                  </p>
+               </sp>
+               <pb n="6" facs="tcp:113570:4"/>
+               <sp>
+                  <speaker>Commit.</speaker>
+                  <p>
+                     <hi>Whereat one of the Committee ſaid, Have you any thing more to ſay?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Larner.</speaker>
+                  <p>
+                     <hi>Not till I heare of what I am accuſed.</hi>
+                  </p>
+               </sp>
+               <stage>Then the Accuſers were called in, and one of the Committee ta<g ref="char:EOLhyphen"/>king up the Book, entitled <hi>Londons laſt warning,</hi> ſaid.</stage>
+               <sp>
+                  <speaker>Commit.</speaker>
+                  <p>
+                     <hi>Doe you know this Book?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>I have ſeen it.</p>
+               </sp>
+               <sp>
+                  <speaker>Commit.</speaker>
+                  <p>
+                     <hi>How many did you ſell of them?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>Eight ſheets, and 14. they took in my Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Commit.</speaker>
+                  <p>
+                     <hi>How many did you buy?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>Twenty five.</p>
+               </sp>
+               <sp>
+                  <speaker>Commit.</speaker>
+                  <p>
+                     <hi>What became of the other three?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>I know not.</p>
+               </sp>
+               <sp>
+                  <speaker>Commit.</speaker>
+                  <p>
+                     <hi>Of whom did you buy them?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>I deſire the Liberty of a <hi>Free-man,</hi> not to incrap my ſelf, or others.</p>
+               </sp>
+               <p>
+                  <stage>Then they writ, <hi>Hee denies to Anſwer to Interrogatories.</hi>
+                  </stage>
+               </p>
+               <p>
+                  <stage>So they began againe, and went over all as before, and when it come to the Queſtion; <hi>Who did you buy them of?</hi>
+                  </stage>
+               </p>
+               <sp>
+                  <speaker>One of the Commit<g ref="char:EOLhyphen"/>tee ſtanding up, ſaid.</speaker>
+                  <p>Mr. <hi>Larner,</hi> take heed, and ſpeak truth, and ſpake as if you had taken an Oath, though we tender none to you, if you look at us, as Magiſtrates. And now Mr. <hi>Larner,</hi> ſpeak as if you were a Preaching. Another, upon hearing of his Name, ſaid; <hi>Larner</hi>! I promiſe you, hee hath learned his Leſſon very well.</p>
+               </sp>
+               <p>Then <hi>Hunſcott</hi> charged ſeverall things upon him: but being put to prove them, he could not, nor any thing elſe, which was a tranſgreſ<g ref="char:EOLhyphen"/>ſion of any Law. This being the ſecond time of his being at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> but the firſt and laſt of his being heard, though he was comman<g ref="char:EOLhyphen"/>ded; and waited ſix ſeverall times at that High-Committee Doore.</p>
+            </div>
+            <div type="part">
+               <p>Thus Courteous Reader, this our Worthy Friend, and Fellow-Commoner of <hi>England,</hi> being turned over to the Houſe of Peers, I ſhall firſt preſent thee with the Copy of Three Petitions, one from his Wife to the Houſe of <hi>Commons,</hi> and two from himſelf, to the houſe of Lords, with two Letters from him to <hi>Parliament-men;</hi> before I pre<g ref="char:EOLhyphen"/>ſent thee with the particular Paſſages concerning this buſineſſe in the Houſe of Peeres; but firſt I ſhall inſert the Copy of the Two Warrants
+<pb n="7" facs="tcp:113570:4"/>
+for his, and his two ſervants Commitments; his Commitment being foure dayes after hee was Priſoner in <hi>Maiden-lane.</hi> (two dayes whereof, hee was kept <hi>Cloſe-Priſoner</hi> by the Stationers ſole com<g ref="char:EOLhyphen"/>mand,) as appeares by the date of this following Warrant.</p>
+               <floatingText xml:lang="eng" type="warrant">
+                  <body>
+                     <head>28. <hi>Martij.</hi> 1646.</head>
+                     <head>At the Committee of the Houſe of <hi>Commons,</hi> for <hi>Examinations.</hi>
+                     </head>
+                     <p>
+                        <hi>IT is this day Ordered, that</hi> William Larner <hi>be continued in the Cuſto<g ref="char:EOLhyphen"/>dy of the Marſhall of</hi> London, <hi>in the New-Priſon in Mayden-land, as he was before, till further Order from the Houſe of Commons, or this Committee.</hi>
+                     </p>
+                     <trailer>To the Marſhall of the City of <hi>London,</hi> Keeper of the New-Priſon.</trailer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="warrant">
+                  <body>
+                     <head>Die Jovis. 16. Aprill. 1646.</head>
+                     <p>
+                        <hi>IT is this Day Ordered by the Lords Aſſembled in Parliament, that</hi> John Larner, <hi>and</hi> Jane Hale, <hi>ſhall ſtand committed to the Priſon of the Fleet, for refuſing to take Oath to teſtify their Knowledge, as witneſſes in a cauſe depending in this Houſe, untill the pleaſure of this Houſe be fur<g ref="char:EOLhyphen"/>ther ſignified; and this to be a ſufficient warrant in that behalf.</hi>
+                     </p>
+                     <closer>
+                        <signed>Jo. Brown Cler. Parliament.</signed>
+                     </closer>
+                     <trailer>To the Gentle-man Uſher, attending this Houſe, to be delivered to the Warden of the Fleet, or his deputy.</trailer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="petition">
+                  <body>
+                     <head>To the Right Honourable, the Knights, Citizens, and Purgeſſes in PARLIAMENT Aſſembled. The humble Petition of <hi>Ellen Larner,</hi> wife of <hi>William Larner.</hi>
+                     </head>
+                     <opener>Sheweth,</opener>
+                     <p>
+                        <hi>THat Your Petititioners Husband, to the ulmoſt of his Power hath en<g ref="char:EOLhyphen"/>deavoured to advance the ſervice of the Parliament, having therein loſt two Servants, and been himſelf</hi> Sutler, <hi>to the Regiment of the Right
+<pb n="8" facs="tcp:113570:5"/>
+Honourable, the Lord</hi> Roberts, <hi>in which Regiment is due to your Petiti<g ref="char:EOLhyphen"/>oner, the Sum of 46. Pounds, 6. Shillings, 6. Pence, as by evident proof bee is able to make appear; And during his abſence ſince his returne home, the Wardens and Beadle of the Company of Stationers, did ſundry times ſearch, ranſack and break open your Petitioners Trunks, and injuriouſly carry away her goods, contrary to Law, and any Warrant which they could produce; And ſince his return home, hee hath been by the malice and in<g ref="char:EOLhyphen"/>ſtigation of the ſaid Wardens and Beadle committed to cloſe Priſon, and is yet in cuſtody, and your Petitioner, being with childe, ſeeing the violent ap<g ref="char:EOLhyphen"/>prehenſion of her husband, fell into a dangerous ſinkneſſe, to her great charge and dammage, by all which agreevances, Your Petitioners eſtate is totally conſumed, and her Husband greatly indebted, and is utterly unable to defray the charge of impriſonment, ſupply the extream wants of his Fa<g ref="char:EOLhyphen"/>mily, (which is 6. Perſons,) or relieve his aged Father and Mother, who are paſt labour, and were lately Plundered in Gloſter-ſhire, or ſatisfie his Creditors.</hi>
+                     </p>
+                     <p>
+                        <hi>Wherefore Your Petitioner moſt humbly prayeth this Honou<g ref="char:EOLhyphen"/>rable Aſſembly, to be pleaſed to Order, that her Husband may be ſuffered under ſufficient Bayle, to follow his Calling, thereby to pre<g ref="char:EOLhyphen"/>vent the apparent ruine of himſelf, and his whole Family; And he will be ready to Anſwer to any thing wherewith hee ſhall be juſtly charged, when hee ſhall be commanded before this Honorable Aſſembly.</hi>
+                     </p>
+                     <closer>
+                        <signed>And your Petitioner ſhall ever pray, <hi>&amp;c.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Which Petition the Petitioner humbly offered, firſt to Sir <hi>Iſaac Pen<g ref="char:EOLhyphen"/>nington,</hi> a Commiſſioner for the City of <hi>London,</hi> to the Parliament, and next to Sir <hi>Matthew Baynton,</hi> to be preſented to the Houſe of Commons, but they abſolutely refuſed to meddle with it at all.</p>
+               <floatingText xml:lang="eng" type="petition">
+                  <body>
+                     <head>To the Right honourable, the <hi>Houſe</hi> of PEERES. The humble Petition of <hi>VVilliam Larner.</hi>
+                     </head>
+                     <opener>Sheweth,</opener>
+                     <p>THAT <hi>Your Petitioner hath been in Actuall Service for the Parlia<g ref="char:EOLhyphen"/>ment, and ſhall be ever ready to approve himſelf in all his Actions, to
+<pb n="9" facs="tcp:113570:5"/>
+be ſuch, as he doubts not but to cleere himſelf of the Accuſations laid to his Charge, if he may have the benefit of the Law, which is his</hi> Birth-right.</p>
+                     <p>
+                        <hi>That your Petitioner is not bound by Law to Anſwer Interrogatories a<g ref="char:EOLhyphen"/>gainſt himſelf nor others, till he hath the ſame to conſider of, and then your Petitioner is at liberty to put in his Anſwer in writing: neither can Your Petitioner by law be proceeded againſt, being a</hi> Free Commoner, <hi>but by the Try all of his fellow</hi> Commons, <hi>in Actions criminall, according to</hi> Magna Charta.</p>
+                     <p>
+                        <hi>Therefore Your Petitioner humbly prayeth, that he may have the benfit of the law; and that he may not be compelled to anſwer to Interroga<g ref="char:EOLhyphen"/>tories, till a legall Charge be given againſt him at law, and then according to law, he may be permitted to make a legall Defence.</hi>
+                     </p>
+                     <closer>
+                        <signed>And Your Petitioner ſhall ever Paray, <hi>&amp;c.</hi> WILLIAM LARNER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>But the Petitioner not hearing of any Iſſue concerning his enlarge<g ref="char:EOLhyphen"/>ment, neither any kind of Anſwer of one or other, after many dayes patience and attendance, did ſend this ſecond Petition.</p>
+               <floatingText xml:lang="eng" type="petition">
+                  <body>
+                     <head>To the Right Honourable, the Houſe of LORDS, Aſſembled in PARLIAMENT. <hi>The humble</hi> Petition <hi>of</hi> William Larner, <hi>Citizen and Stationer in</hi> London, <hi>now Priſoner in</hi> Maiden-Lane.</head>
+                     <opener>Humbly Sheweth,</opener>
+                     <p>THat Your Petitioner, out of his good affection to the State, left his Wife, Family and Calling, and voluntarily went in the ſervice of the Parliament againſt the common Enemy, where he continued a long time, untill he was viſited with ſickneſſe, and there<g ref="char:EOLhyphen"/>by neceſſitated to come home, and being much impoveriſhed and wa<g ref="char:EOLhyphen"/>ſted in his eſtate, having loſt two of his Servants likewiſe in this war, and having received little or no pay; there being in arrear, and due un<g ref="char:EOLhyphen"/>to him 461. 68. 6d. upon account by the Parliament.</p>
+                     <p>That Your Petitioner, for the maintenance of his Family, and charge, following his former calling of Book<g ref="char:EOLhyphen"/>ſelling; One <hi>Hunſcott,</hi> a
+<pb n="10" facs="tcp:113570:6"/>
+                        <hi>Beagle</hi> of the <hi>Stationers,</hi> with his Partners, under colour of ſearching for <hi>Scandalous</hi> books, did enter ſeven ſeverall times into your Petiti<g ref="char:EOLhyphen"/>oners houſe, and both break in pieces, and forcibly carried away much of Your Petitioners goods, having never hitherto made any reſtituti<g ref="char:EOLhyphen"/>on or ſatisfaction therefore.</p>
+                     <p>That the ſaid <hi>Hunſcott,</hi> in further proſecution of his malice, hath of late againe broken in into, and ſearched your Petitioners Houſe, apprehended and carried him to the <hi>Poultry Counter,</hi> cauſing him to be kept cloſe <hi>Priſoner</hi> ſeverall dayes, not ſuffering any of his friends to come at him; and afterwards, from thence to <hi>Mayden-lane</hi> Priſon, where he hath continued 22. dayes: And for his further vexation and charges, hath been carried Eleven times to <hi>Weſtminſter,</hi> yet no breach of any law ever proved againſt him.</p>
+                     <p>That Your Petitioners Wife was ſo frighted by the ſaid <hi>Hunſcott,</hi> and his Confederates, that ſhee lay deadly ſick, like a Woman in tra<g ref="char:EOLhyphen"/>vaile, moſt of the time of his impriſonment; And by reaſon that your Petitioner is taken from his Calling, both hee, and ſhee, with their Family, are ready to periſh, except ſome ſpeedy courſe be taken for his Deliverance, that hee may uſe lawfull meanes for their ſubſi<g ref="char:EOLhyphen"/>ſtance.</p>
+                     <p>
+                        <hi>Your Petitioners humble ſuite is therefore, That Your Lordſhips will be pleaſed to take his former Petition into your ſerious conſideratin, and in your noble diſpoſition, no longer to expoſe your Petitioner, his wife, and family to ruine, which they cannot avoide, if your Petiti<g ref="char:EOLhyphen"/>oner may not have his liberty, and be permitted to follow his Calling, for the maintenance of himſelf, wife and family; and the rather for that Your Petitioner hath not tranſgreſſed any knowne Law of this Kingdome, but onely have done that which others of this trade dai<g ref="char:EOLhyphen"/>ly uſe to doe, even to buy and ſell books of all ſorts, which are not prohibited, neither can his Adverſaries, nor any others, prove that he, or any for him, have bought or ſold any of thoſe Bookes, for which hee is now queſtioned, ſince they were called in, and prohibited.</hi>
+                     </p>
+                     <closer>
+                        <signed>And Your Petitioner ſhall pray, <hi>&amp;c.</hi> WILLIAM LARNER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="11" facs="tcp:113570:6"/>
+                     <head>The Copy of a <hi>Letter</hi> from <hi>William Larner,</hi> to Sir <hi>Henry Hayman, a</hi> Member of the Houſe of COMMONS, as followeth.</head>
+                     <opener>
+                        <salute>Worthy SIR,</salute>
+                     </opener>
+                     <p>AFter my humble ſervice preſented, theſe are to certifie Your Worſhip, concerning the condition of your poor ſupplicant, being impriſoned for ſelling Eight ſheets of printed Paper, in<g ref="char:EOLhyphen"/>tituled the Laſt <hi>Warning</hi> to <hi>London;</hi> twice have I been kept cloſe Pri<g ref="char:EOLhyphen"/>ſoner, that none might ſpeak with me; ſeven times brought from the <hi>New-Priſon,</hi> to attend the Committee of <hi>Examinations,</hi> and but once examined, and have not the leaſt breach of any knowne Law found a<g ref="char:EOLhyphen"/>gainſt me; Alſo my wife being much frighted at their rigerous and harſh courſes, hath for theſe 12, dayes been very <note n="*" place="margin">And during, that ſick<g ref="char:EOLhyphen"/>neſſe ſhee miſcarri<g ref="char:EOLhyphen"/>ed.</note> ſick, and likely thereupon to have a miſcarriage; having no guide for my Family, they depending on the Labour of my hands for their bread, having been formerly in the Parliaments Service, in which alſo I loſt two ſervants, and my Father and Mother having been lately plundered by the Cavaliers, being left very poore, and having much of their relief from me, out of my labour, there being due to me for my ſervice, 46l. 6s. 6d. Moreover my Accuſers, have ſince this day Twelve-moneth ſearched my houſe, broken in pieces, and unjuſtly carried away much of my goods, under pretence <hi>of Authority from the</hi> PARLIAMENT, fix ſeverall times. And at this preſent, 3. or 4. others being in que<g ref="char:EOLhyphen"/>ſtion for the ſame things, yet they are at libertie, and I in priſon, to my utter ruine and undoing, which I deſire your Worſhip, to take into your conſideration: And as <hi>Job</hi> ſaith, to open your mouth for the dumbe, and as in duty, I ſhall ever remaine.</p>
+                     <closer>
+                        <dateline>New-priſon in <hi>Mayden-lane. London,</hi> 
+                           <date>the laſt of <hi>March.</hi> 1646.</date>
+                        </dateline>
+                        <signed>Your humble ſervant to command, WILLIAM LARNER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>[This Letter was delivered, but no Anſwer returned.]</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The Copy of a Letter from <hi>William Larner,</hi> to Sir <hi>Henry Veine</hi> the Younger, a Member of the Houſe of <hi>Commons,</hi> as followeth.</head>
+                     <opener>
+                        <salute>Right Worſhipfull,</salute>
+                     </opener>
+                     <p>THough unknown to You by face; yet as a <hi>Commoner of England,</hi> I am bold to preſent unto you my preſent Suffering condition, and
+<pb n="12" facs="tcp:113570:7"/>
+how illegally and Injuricuſly I have been dealt withall, and proceeded againſt, by my accuſers, and Perſecutors, You that are intruſted for the <hi>Commons</hi> of <hi>England,</hi> and have ſworn and engaged your ſelves to de<g ref="char:EOLhyphen"/>fend their <hi>juſt Liberties and Freedoms,</hi> for which they have ſo freely and cheerfull undergone all hazards, ſhould (now, after the <hi>Common Enemy</hi> is almoſt brought under,) ſuffer us daily to be caſt into Pri<g ref="char:EOLhyphen"/>ſon, and robbod by theſe wicked Proomoters, and Informers, <hi>Han<g ref="char:EOLhyphen"/>ſcott,</hi> and his Fellows, who ever made it their trade, as well under, and by the <hi>Biſhops,</hi> before this Parliament, as now under and by colour of Authority, from the Committee of Examinations, to rob and ſpoile honeſt mens houſes, under the name of <hi>Searchers,</hi> is ſtrange to me; yet could I never heare of any, whom they thus ſearched for, Impriſoned, and broken their houſes, were ever convicted, or procee<g ref="char:EOLhyphen"/>ded againſt in any legall way; I was carried before the <hi>Lord Major</hi> of <hi>London,</hi> who would have examined me againſt my ſelf, contrary to Law, and ſo committed: after was I carried before the Committee of Examinations, who would have had me to anſwer <hi>Intergatcries</hi> againſt my ſelf, <hi>juſt High-Commiſſion-like,</hi> to the end, when they have not wherewith to charge me, to get ſomething from my ſelf, to give co<g ref="char:EOLhyphen"/>lour to their doings; ſeven ſeverall times they have had me at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and now they labour to get me turned over unto the Houſe of <hi>Peeres,</hi> thinking to effect and compaſſe their miſchievous ends upon me there, which they cannot doe well elſe<g ref="char:EOLhyphen"/>where. In all crim<g ref="char:EOLhyphen"/>minall Cauſes; you know, <hi>Commons</hi> are to be tryed by <hi>Commons,</hi> as <hi>Peeres</hi> by <hi>Peeres;</hi> ſo that if any ſhould attempt to bring a Peer to try<g ref="char:EOLhyphen"/>all by <hi>Commons,</hi> the <hi>Peers</hi> would not give way unto it; And I hope, the repreſentative body of the <hi>Commons</hi> of this Kingdome, will never give the <hi>Commons</hi> right and <hi>Birthright,</hi> into the hands of the <hi>Peers;</hi> but as you are tender of your own <hi>Priviledges,</hi> ſo give us leave to ſtand for our <hi>Liberties,</hi> and let it be your care, to ſee the ſame preſerved; I have been in the ſpace of 12 dayes, committed to two ſeverall Priſons, kept <hi>Cloſe Priſoner,</hi> and for certaine dayes, none permitted to ſpake to me, or come at me, and worſer uſed, then they doe Thieves, Murder<g ref="char:EOLhyphen"/>ers, or Traytors, and yet my charge no other then for felling Eight Printed ſheets of Paper, Intituled, <hi>The laſt Warning to London,</hi> which I bought in my ſhop; as the manner of our trade is, to buy Books of all ſorts; This bearer can informe you of the truth of my bad uſage,
+<pb n="13" facs="tcp:113570:7"/>
+how my wife hath all this while been ſick, in pangs like a travailing woman, being frighted with <hi>Hunſcott,</hi> and thoſe that have ſeven ſeve<g ref="char:EOLhyphen"/>rall times ſearched my Houſe, who took away from me much of my goods; Sir, I have heard a good report of you, and of your readi<g ref="char:EOLhyphen"/>neſſe in furthering honeſt mens cauſes; I deſire nothing from you, but <hi>the benefit of the good Lawes made againſt Oppreſſion, &amp; Oppreſſours,</hi> that you will not ſuffer me to be ruined by theſe Old Informers, and <hi>Quandam</hi> ſervants to the late <hi>Biſhop</hi> of <hi>Canterbury,</hi> and if by your me<g ref="char:EOLhyphen"/>diation to the Houſe of <hi>Commons,</hi> I may obtaine ſo much favour, as to have Common Juſtice, which is every <hi>Free mans Birth-right,</hi> to make my legall Defence; and liberty given, I doubt not, but to cleer my ſelf, and prove, that ſome of thoſe my Accuſers, not onely to be Thieves and Robbers of other men, but ſuch as are, and have been un<g ref="char:EOLhyphen"/>worthy Promoters and Informers under the <hi>Biſhops,</hi> by which trade, they live and ſubſiſt, and if by legall conviction, I be found guilty, I ſhall not refuſe to ſubmit unto ſuch exemplary puniſhment, as by the law may be inflicted upon me, but in caſe I ſuffer unjuſtly, through your neglect, and you ſhall refuſe to give me your Aſſiſtance, for the freeing me from the malice of theſe <hi>baſe Informers:</hi> If I cannot, yet ſome of my friends will make it knowne to the World, where the fault is, &amp; how Juſtice is denyed us; beſides, how I was actually a long time in <hi>the Parliaments Service,</hi> adventuring my ſelf for them in this <hi>Warre,</hi> and how 461. 6s. 6d. is due to me, as the Right Honourable the <hi>Lord Roberts,</hi> and many of his Officers of his Regiment can informe you, and till you pay the Principall, <hi>whether theſe cruell doings, and Im<g ref="char:EOLhyphen"/>priſonment, muſt ſerve for</hi> Interreſt, <hi>I referre it to your own ſelf to conſo<g ref="char:EOLhyphen"/>der of,</hi> and how much, (if you ſuffer theſe things,) it will diſhonour you, beſides alienate the affections of the People from you; which that it may not be, is the deſire of him, who is</p>
+                     <closer>
+                        <dateline>From the Goal of <hi>New-priſon</hi> in <hi>Mayden-lane</hi> London, <date>the 3. of Aprill. 1646.</date>
+                        </dateline>
+                        <signed>Yours to doe you any ſervice, as a Free Man, WILLIAM LARNER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>[This Letter was alſo delivered, but no Anſwer returned.]</p>
+            </div>
+            <div type="dialogue">
+               <pb n="14" facs="tcp:113570:8"/>
+               <p>Now to proceed to the buſineſſe before the Lords. The 8. Time of his being hurried to <hi>Weſtminſter</hi> (which was the ſecond day of his go<g ref="char:EOLhyphen"/>ing to the houſe of Lords, <hi>Ap.</hi> 3. 1646.) he being brought thither with two others, to wit, Mr. <hi>Giles Calvert,</hi> and Mr. <hi>Overtons</hi> man, <hi>Henry Criſpe,</hi> and ſtanding at the Barre, the Earle of <hi>Mancheſter</hi> ſaith.</p>
+               <sp>
+                  <speaker>Mancheſt.</speaker>
+                  <p>Which is <hi>Larner?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Larner.</speaker>
+                  <p>I am the man.</p>
+               </sp>
+               <stage>
+                  <hi>[Mancheſter</hi> taking up the book in his hand, ſaid,]</stage>
+               <sp>
+                  <speaker>Manch.</speaker>
+                  <p>Mr. <hi>Larner;</hi> here is a Book, intituled Londons laſt Warning, which you are look'd upon to he both Author, Printer and Publiſher. <stage>[Laying that downe, he took up a Paper in writing, ſaying,]</stage> You are to anſwer to whatſoever this Court ſhall demand of you.</p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>I deſire this Honourable Houſe to admit of one word; that is, Whether I be brought hither to be tryed by Rule of law, or not?</p>
+               </sp>
+               <sp>
+                  <speaker>Mancheſt.</speaker>
+                  <p>Wee are not to Anſwer to your requeſts; but you are to anſwer to all this Houſe ſhall demand of you: [looking in the paper in his hand, ſaid,] Will you anſwer or not?</p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>I<g ref="char:punc">▪</g> humbly conceive, it is provided in the Law, that no Anſwer is to be made otherwiſe, but by way of Bill, or Anſwer in writing: And I humbly conceive further, that every Commoner in <hi>England</hi> in criminall Caſes, is to be tryed by the Houſe of Commons, as <hi>Mag<g ref="char:EOLhyphen"/>na Charta</hi> ſaith; and therefore I ſhall humbly beſeech, this Honou<g ref="char:EOLhyphen"/>rable Court, wholy to leave this Caſe unto them, they having be<g ref="char:EOLhyphen"/>gun the tryall thereof already.</p>
+                  <p>Whereat they were cauſed to withdraw, but preſently after, both the Accuſers, and accuſed, were all called in face to face; <hi>Miller,</hi> one of his Accuſers, thus delared againſt him.</p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>I went, by the Lord Majors command, to ſee if I could find out the Authour, Printer, or Publiſher, and comming to <hi>Corn<g ref="char:EOLhyphen"/>hill,</hi> at a ſhop, found 8. or 10. ſheets thereof; where he was informed, that <hi>Larner</hi> was the ſeller of them; ſo hee and his fellowes, (naming <hi>Hunſcott,)</hi> going thither, found them lying in <hi>Larners</hi> Window be<g ref="char:EOLhyphen"/>fore him, as he ſtood at worke: to which <hi>Hunſcott</hi> agreed, and added, that it was proved at the Committee for Examinations, by the <hi>Letter-founder,</hi> that <hi>Larner</hi> was hee that bought the Letter which printed the Book. How true this is, all honeſt people may judge from the Founders owne words, given in upon Oath: which ſhall be inſerted in their proper place: But the <hi>Founder,</hi> and the other Bookſeller in
+<pb n="15" facs="tcp:113570:8"/>
+                     <hi>Cornhill,</hi> being not there, they proceeded no further that day.</p>
+                  <p>He being commanded the ſecond time before the Lords, his Accu<g ref="char:EOLhyphen"/>ſers, with their Witneſſes, were called alſo in; the Witneſſes which they preſented, were 3. <hi>Viz.</hi> Mr. <hi>Nicholls,</hi> a Letter Fownder, <hi>Wood<g ref="char:EOLhyphen"/>net</hi> a Book-ſeller, and <hi>Conly</hi> a Purſevant; Theſe three were all ſworn to ſpeak the truth, and nothing but the truth; what they knew in this buſineſſe concerning Mr. <hi>Larner.</hi> Then <hi>VVoodnett</hi> was firſt asked about the Bookes, <hi>how many he bought?</hi> Who anſwered; ſhall it pleaſe you my Lords, I bought of Mr. Larner 8. or 10. Sheets; I know not whether, he is here that ſould them, and they that took them, who can tell as well as I.</p>
+                  <stage>Then Mr. <hi>Nicholl's</hi> was asked, Whether Larner had any hand in buying the Letter of him; or who did buy it? he Anſwered.</stage>
+               </sp>
+               <sp>
+                  <speaker>Mr. Nicholls.</speaker>
+                  <p>No; hee never bought, nor fetch'd any Letter from mee; indeed <hi>Larner</hi> was proffered for Surety, but I returned him, be<g ref="char:EOLhyphen"/>cauſe of his Poverty.</p>
+               </sp>
+               <sp>
+                  <speaker>Lords.</speaker>
+                  <p>Who then was bound?</p>
+               </sp>
+               <sp>
+                  <speaker>Nicholls.</speaker>
+                  <p>One <hi>Smith.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lords.</speaker>
+                  <p>From whom did you receive the money?</p>
+               </sp>
+               <sp>
+                  <speaker>Nichol.</speaker>
+                  <p>Of the ſaid <hi>Smith.</hi> 
+                     <stage>[Then <hi>Smith</hi> was called in, and ſworn; which done; it was demanded of him, <hi>Of whom he received the money?</hi> Who anſwered, <hi>Of Mr. Larner.]</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <p>
+                  <stage>Then was demanded of <hi>Conly,</hi> what he could ſay to the buſineſſe?</stage>
+               </p>
+               <sp>
+                  <speaker>Conly.</speaker>
+                  <p>Shall it pleaſe you my Lords, I am a Meſſenger to the Com<g ref="char:EOLhyphen"/>mittee of of Examinations, who ſent me with Mr. <hi>Hunſcott,</hi> to ſearch <hi>Smiths</hi> houſe, and when we brought him along, wee asked him, of whom he received the money, and he ſaid, of <hi>Larner,</hi> and Mr. <hi>Hunſ<g ref="char:EOLhyphen"/>cott</hi> bade me bear witneſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Lords.</speaker>
+                  <p>And is this all you can ſay?</p>
+               </sp>
+               <sp>
+                  <speaker>Conly.</speaker>
+                  <p>Yes. <stage>[ſo they were all commanded to withdraw, and af<g ref="char:EOLhyphen"/>ter a little ſpace, Mr. <hi>Larner</hi> was called in alone.]</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mancheſt.</speaker>
+                  <p>Mr. <hi>Larner,</hi> you ſee what courſe we have taken, and you heare what is laid to your charge, and proved by Witneſſes under Oath: Now it remaines, that you ſhould ſpeak to cleer your ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Larner.</speaker>
+                  <p>My Lords, ſhall it pleaſe your Honours, as I humbly con<g ref="char:EOLhyphen"/>ceive; if it be a Tranſgreſſion of a law, for being bound, and for paying money for a Commodity, then he that ſold the Commodity, hath alſo tranſgreſſed a Law.</p>
+               </sp>
+               <pb n="16" facs="tcp:113570:9"/>
+               <sp>
+                  <speaker>Mancheſt.</speaker>
+                  <p>Have you any thing elſe to ſay?</p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>
+                     <hi>My Lords, as for the Bookes, I have done nothing, but what is the manner and cuſtome of all our Trade, to buy all manner of Bookes, being carried about to be ſold at ſhops by Men, Women &amp; Children, and thoſe be<g ref="char:EOLhyphen"/>ing brought to my houſe; I did not much minde them, being buſy about my other employment, to wit, binding of Bookes, and to this day and houre, I doe ſeriouſly declare to you, I doe not know any one ſentence in it, except the Title, for I never read ſix lines of it.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manchest.</speaker>
+                  <p>Of whom did you buy them?</p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>
+                     <hi>May it pleaſe your Lordſhips, (as</hi> I <hi>ſaid before, ſo</hi> I <hi>deſire againe) that you may ſpare me in that thing; for under favour,</hi> I <hi>conceive, that a man is not bound by any law or Reaſon, To accuſe himſelf or others,</hi>
+                  </p>
+                  <p>
+                     <stage>[and this was put to him 3. times, but their Lordſhips muſt reſt ſatisfyed, for the man is more faithfully reſolved, and diſpoſed for the preſervation and vindication of the juſt <hi>lawes</hi> and <hi>liberties</hi> of this Nation, then any wiſe to deſtory or annull them.]</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lords.</speaker>
+                  <p>What ſervants have you?</p>
+               </sp>
+               <sp>
+                  <speaker>Lar.</speaker>
+                  <p>I <hi>have a Brother liveth with me, which hath been 3. yeers in the Service, by the ſame token, he hath 16 or 17 l. due for the ſaid Service, and beſides him,</hi> I <hi>have an antient Maide, neer 60. yeers of age.</hi>
+                  </p>
+               </sp>
+               <p>
+                  <stage>[Then he was committed to his Keeper, and going away, he was called back, to know his ſervants names, at which Paſſage hee was ſomewhat troubled, and ſaid 10 the two Clarks, What? is it not ſufficient to keep me 18. or 20. dayes in Priſon, and make me waite 10. or 11. times, but you muſt moleſt my family alſo.]</stage>
+               </p>
+               <p>
+                  <stage>To which one of them made this anſwer;</stage>
+               </p>
+               <p>Wee <hi>have not uſed you ſo bad yet, but</hi> Wee <hi>will uſe you worſe before we have done with you.</hi>
+               </p>
+               <p>
+                  <hi>Then upon</hi> Thurſday, <hi>Aprill 17. he with his 2. Servants, was brought to the Lords Barre: but his ſervants being commanded to be ſworne, they plead ignorance in an Oath; Then the</hi> E. <hi>of</hi> Mancheſter <hi>told them, They muſt ſwear to anſwer to ſuch Queſtions as that Court ſhould demand; the which they refuſing, were both committed to the common Goal of the</hi> Fleet, <hi>where they remain ſtill in durance.</hi>
+               </p>
+               <p>
+                  <hi>And upon the laſt of Aprill,</hi> 1646. Hunſcot, <hi>and</hi> 4. <hi>of his Part<g ref="char:EOLhyphen"/>ners, came in the night-time, and ſearched Mr.</hi> Larners <hi>chamber, and Poc<g ref="char:EOLhyphen"/>ketts in the Priſon, as other birds of their feather, did that other worthy Pri<g ref="char:EOLhyphen"/>ſoner, Mr.</hi> Muſgrave, <hi>two moneths agoe in the</hi> Fleet, <hi>who alſo ſuffereth for the</hi> Freedom <hi>of the</hi> Nation. <hi>There is a little book called</hi> Every Mans Caſe, <hi>newly divulged in the behalf of</hi> Mr. Larner, <hi>and is printed with a<g ref="char:EOLhyphen"/>nother</hi> Letter <hi>thereunto annexed.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
